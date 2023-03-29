@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="on_boarding_1">1. Welcome to Quokka! Quokka is a personal feeling diary app. You
+    can record your feelings alongside their triggers, solutions etc. during your day. Besides, Quokka,
+    saving these records for you, it would also try to provide you with solutions based on your needs</string>
+    <string name="on_boarding_2">2. The home screen shows the history of what you\'ve felt in the
+    last 7 days, you can add feelings by tapping on each card</string>
+    <string name="on_boarding_3">3. At the first launch, you won\'t see any data, the app would
+    update the home screen automatically, whenever you add a new feeling </string>
+    <string name="on_boarding_4">4. You can access the statistics screen by tapping the statistics icon
+    to get a general idea of how you\'ve felt in the past </string>
+    <string name="on_boarding_5">5. Feelings are complicated, sometimes we cannot clearly
+    figure out how we\'re feeling, so here is a cheat sheet for you! tap on any feeling to get a little
+    description about it.</string>
+    <string name="on_boarding_6">6. Lastly, we value your opinions and ideas very much, if you\'ve got
+    anything that you want to tell us, you can send us a mail by using these links</string>
+
+    <string name="contact_us">Contact Us!</string>
+    <string name="rate_us">Rate Us!</string>
+
+
+    <string name="happiness_description">
+            Definition: A pleasant emotional state that elicits feelings of joy, contentment and satisfaction
+    </string>
+
+    <string name="anxiety_description">
+        Definition: A primal emotion that is important to survival and triggers a fight or flight response
+    </string>
+
+    <string name="anger_description">
+Definition: An emotional state leading to feelings of hostility and frustration
+    </string>
+
+    <string name="sadness_description">
+Definition: An emotional state characterized by feelings of disappointment, grief or hopelessness
+    </string>
+
+    <string name="depression_description">
+Definition: Persistent sadness and a lack of interest or pleasure in previously rewarding or enjoyable activities.
+    </string>
+
+    <string name="happiness_expression">
+            Expressions: Smile, laughter
+    </string>
+
+    <string name="anxiety_expression">
+         Expressions: Increased heart rate, trouble concentrating,Feeling fatigued often,
+        Irritability, Excessive feelings of worry that are difficult to control,
+        Difficulty with sleeping
+    </string>
+
+    <string name="anger_expression">
+ Expressions: Glare, eyebrows drawn together, tight lips
+    </string>
+
+    <string name="sadness_expression">
+         Expressions: Frown, loss of focus in eyes, tears
+    </string>
+
+    <string name="depression_expression">
+         Expressions: Feeling suffocated, no eye contact, always feeling tired
+    </string>
+
+</resources>

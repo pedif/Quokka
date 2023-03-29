@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="anger_actions">
+    <item>Take multiple deep breaths, you got this, all is going to be OK!</item>
+    <item>Before doing anything count to 10 slowly, no need to rush things!</item>
+    <item>Take a time out!</item>
+    <item>Lightening up can help diffuse tension. Use humor to help you face what\'s making you angry</item>
+    <item>Take a nap!</item>
+    <item>Get something to eat!</item>
+    <item>Exercise! Go for a run!</item>
+</string-array>
+
+    <string-array name="anxiety_actions">
+        <item>Watch a funny video!</item>
+        <item>Take multiple deep breaths, you got this, all is going to be OK!</item>
+        <item>Talk to your friends and family.</item>
+        <item>Take a nap!</item>
+        <item>Get something to eat!</item>
+        <item>Exercise! Go for a run!</item>
+        <item>Anxiety is a future-oriented state of mind, reel yourself back to the present.</item>
+    </string-array>
+
+
+    <string-array name="sadness_actions">
+        <item>Watch a comedy!</item>
+        <item>Talk to your friends and family.</item>
+        <item>Help others!</item>
+        <item>Get something to eat!</item>
+        <item>Exercise! Go for a run!</item>
+    </string-array>
+
+    <string-array name="depression_actions">
+        <item>Go outside, preferably somewhere green like a park.</item>
+        <item>Help others!</item>
+        <item>Talk to your friends and family.</item>
+        <item>Take a nap!</item>
+        <item>Get something to eat!</item>
+        <item>Exercise! Go for a run!</item>
+    </string-array>
+
+
+</resources>

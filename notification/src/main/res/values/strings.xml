@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_feeling_description">Tap to update your feeling</string>
+    <string name="channel_name">Feeling channel</string>
+    <string name="channel_description">This channel is used to show the current feeling set</string>
+    <string name="button_save">Add</string>
+    <string name="button_finish">Finish</string>
+    <string name="button_no_feeling">No feelings for now!</string>
+    <string name="notification_permission_not_granted">No permission to show notifications!</string>
+    <string name="screen_title">What are you feeling?</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="error_play_services">Please update play services</string>
+    <string name="error_no_product">Could not retrieve product details</string>
+    <string name="error_unknown">Couldn\'t figure out the issue</string>
+    <string name="error_canceled">You canceled!</string>
+    <string name="sucesss">Yay thank you :)</string>
+    <string name="ad_not_loaded">Ad was not loaded please try again later</string>
+
+</resources>

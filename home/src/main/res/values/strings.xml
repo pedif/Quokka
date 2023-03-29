@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="home_summary_title">Last 7 days summary</string>
+    <string name="day_feeling_summary_first_part">
+        On this day it seems like you felt %1$s the most.&#160; </string>
+    <string name="action_go_next">Go</string>
+    <string name="day_feeling_summary_short_max">
+         You were %1$s the most.&#160; </string>
+    <string name="day_feeling_summary_short_min">
+         You were %1$s the least.&#160; </string>
+    <string name="today_label">Today</string>
+    <string name="today_solution_label">Things you can do to feel better:</string>
+
+
+    <string name="rate_us">Rate Us!</string>
+    <string name="rate_us_description"> Would you like to rate us? </string>
+</resources>

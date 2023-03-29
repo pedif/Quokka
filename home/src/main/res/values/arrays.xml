@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="feeling_most">
+        <item>You were happy the most :)</item>
+        <item>You were angry the most!</item>
+        <item>you were anxious the most!</item>
+        <item>you were sad the most :(</item>
+        <item> you were depressed them most :(</item>
+        <item>No data available!</item>
+    </string-array>
+</resources>

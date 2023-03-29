@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="horizontal_bar_height">24dp</dimen>
+    <dimen name="border_thickness">0.5dp</dimen>
+    <dimen name="corner_size">8dp</dimen>
+    <dimen name="margin_x_small">2dp</dimen>
+    <dimen name="margin_small">4dp</dimen>
+    <dimen name="margin_medium">8dp</dimen>
+    <dimen name="margin_large">16dp</dimen>
+    <dimen name="margin_x_large">20dp</dimen>
+    <dimen name="icon_width">4dp</dimen>
+    <dimen name="icon_height">24dp</dimen>
+    <dimen name="cell_min_width">120dp</dimen>
+    <dimen name="divider_thickness">1dp</dimen>
+
+    <dimen name="button_horizontal_padding">12dp</dimen>
+    <dimen name="button_vertical_padding">4dp</dimen>
+</resources>

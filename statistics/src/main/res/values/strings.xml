@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="time_intervals">
+        <item>Last week</item>
+        <item>Last month</item>
+        <item>Last year</item>
+    </string-array>
+
+    <string-array name="action_types">
+        <item>Happiness</item>
+        <item>Last month</item>
+        <item>Last year</item>
+    </string-array>
+    <string name="action_item_summary">
+        I was %1$s for %2$s on %3$s.&#160;
+    </string>
+
+
+</resources>

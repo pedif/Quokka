@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="icon_width">4dp</dimen>
+    <dimen name="icon_height">24dp</dimen>
+    <dimen name="cell_min_width">120dp</dimen>
+    <dimen name="divider_thickness">1dp</dimen>
+    <dimen name="button_width">52dp</dimen>
+<dimen name="button_height">24dp</dimen>
+</resources>

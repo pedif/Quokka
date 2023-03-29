@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="enjoyment_title">Happiness</string>
+    <string name="anxiety_title">Anxiety</string>
+    <string name="anger_title">Anger</string>
+    <string name="sadness_title">Sadness</string>
+    <string name="depression_title">Depression</string>
+    <string name="no_input_title">No input</string>
+    <string name="happiness_adj">happy</string>
+    <string name="anger_adj">angry</string>
+    <string name="anxiety_adj">anxious</string>
+    <string name="sadness_adj">sad</string>
+    <string name="depression_adj">depressed</string>
+    <string name="feeling_ongoing">On Going</string>
+
+    <string name="feeling_current_title">You are feeling %1$s.&#160;  </string>
+    <string name="feeling_current_nothing">You are currently feeling nothing, tap here to
+    add a feeling</string>
+    <string name="no_feeling_found_for_day">No feelings for this day</string>
+
+    <string name="action_feeling_description">You were feeling
+     %1$s for %2$s !</string>
+
+    <string name="feeling_summary_first_part">
+      %1$s. it seems like you felt %2$s the most.&#160; </string>
+    <string name="feeling_link_text">&#160;Maybe this link might help?</string>
+    <string name="last_week_label">Last week</string>
+
+
+    <string name="no_feeling_found">No feelings for  %1$s</string>
+
+
+    <string name="comment_label">Comment</string>
+    <string name="comment_placeholder">You can write the trigger for this emotion or how
+    you were able to solve it</string>
+
+    <string name="action_duration_label_full">%1$s %2$s %3$s %4$s,  %5$d%%</string>
+    <plurals name="minute_label">
+        <item quantity="zero"></item>
+        <item quantity="one">minute</item>
+        <item quantity="other">mins</item>
+    </plurals>
+    <plurals name="hour_label">
+        <item quantity="zero"></item>
+        <item quantity="one">hour</item>
+        <item quantity="other">hrs</item>
+    </plurals>
+
+    <string name="happiness_solution">Rock on!</string>
+    <string name="anger_solution">Hmm, we\'re a little angry! The good news is in 2021 around 40%% of people
+        around the world felt like this so you\'re not alone! And the even better news is you can
+        definitely work on it.</string>
+    <string name="anxiety_solution">Light up, you can get through this like you always do 😊. And your feelings are
+        totally relatable by most people around the globe because at least 300 million people
+        felt anxious in 2021. </string>
+    <string name="sadness_solution">Oh no, it must be really difficult feeling like this 😔. </string>
+    <string name="depression_solution">Remember we\'re here for you, here\'s the warmest hug just for you 🤗.
+        According to WHO Depression is one of the leading causes of disability.
+            Suicide is the fourth leading cause of death among 15-29-year-olds. You can use the latter
+        link to access some useful data, however, depression is a serious matter, if you didn\'t feel
+            better please counsel a doctor. My heart goes with you  &lt;3. </string>
+
+</resources>
